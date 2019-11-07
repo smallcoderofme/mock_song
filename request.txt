@@ -1,0 +1,2 @@
+pip install praat-parselmouth
+# pip install psychopy
